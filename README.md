@@ -1,0 +1,2 @@
+# pickster-privacy
+privacy policy
